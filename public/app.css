@@ -1,0 +1,8 @@
+body{
+    height: 100ch;
+    background-image: 'C:\laravel\example-app\public\app.css';
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
